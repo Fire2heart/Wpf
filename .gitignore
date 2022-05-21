@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+.vs
+.sln
+packages
+
 # Object files
 *.o
 *.ko
