@@ -1,0 +1,50 @@
+﻿<Window x:Name="wdwPlayer" x:Class="AudioVideoPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AudioVideoPlayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="470" Width="700">
+
+    <Grid Margin="0,20,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+
+        <MediaElement x:Name="avPlayer" LoadedBehavior="Manual"/>
+        
+        <Grid Grid.Row="2" Margin="20,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="80"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="btnOpen" Grid.Column="0" Content="Open"
+                    Click="BtnOpen" ToolTip="Select a video file"/>
+
+            <Button x:Name="btnPlay" Grid.Column="1" Content="Play"
+                    Click="BtnPlay" 
+                    ToolTip="Plays the video"/>
+
+            <Button x:Name="btnPause" Grid.Column="2" Content="Pause"
+                    Click="BtnPause" 
+                    ToolTip="Pauses the video"/>
+
+            <Button x:Name="btnClose" Grid.Column="3" Content="Close" 
+                    Click="BtnClose" 
+                    ToolTip="Closes the video"/>
+
+            <Button Grid.Column="5" Content="Close"
+                    Click="CloseWindow" 
+                    ToolTip="Close application"/>
+        </Grid>
+    </Grid>
+</Window>

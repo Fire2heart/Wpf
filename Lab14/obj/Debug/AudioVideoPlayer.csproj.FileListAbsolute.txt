@@ -1,0 +1,15 @@
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.exe.config
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.exe
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\bin\Debug\AudioVideoPlayer.pdb
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\App.g.cs
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer_MarkupCompile.cache
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer_MarkupCompile.lref
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\MainWindow.baml
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.g.resources
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.Properties.Resources.resources
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.GenerateResource.Cache
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.exe
+C:\Users\Tomáš\Desktop\Ukazka1\AudioVideoPlayer\AudioVideoPlayer\obj\Debug\AudioVideoPlayer.pdb
